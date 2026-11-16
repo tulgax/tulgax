@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @tulgax
-- 👀 I’m interested in UI/UX Designer
-- 🌱 I’m currently learning Next.JS
-- 💞️ I’m looking to collaborate on SAAS Projects
-- 📫 How to reach me tulgaa.mgl@gmail.com
-- 😄 Nickname: Tulgax
-- ⚡ Fun fact: I am just learning how to code.
+### Tulgaa Enkhbold
 
-<!---
-tulgax/tulgax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Design engineer in Ulaanbaatar. I design AI products and ship them myself, from the first screen to payments.
+
+- **[Duulya](https://duulya.app)** · personal song gifts in Mongolian · 1,400+ sold
+- **[Үлгэр](https://ulger.app)** · picture books where the child is the hero · 100+ sold
+- **[Mongoltest](https://mongoltest.mn)** · IQ and personality tests in Mongolian · 28,000+ sold
+- **[Retext](https://retext-pdf.vercel.app)** · edit the text in any PDF, in the browser · [code](https://github.com/tulgax/retext-pdf)
+
+Most of my work lives in private repos.
+
+[Portfolio](https://tulgux.site) · [LinkedIn](https://www.linkedin.com/in/tulgax/)
